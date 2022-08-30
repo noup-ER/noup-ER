@@ -1,6 +1,6 @@
-### Hi there 👋
+### Welcome my friends👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noup-ER)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noup-ER&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **noup-ER/noup-ER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
